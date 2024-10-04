@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Jeratevently
 
-## Getting Started
+Table of Contents
+About the Project
+Features
+Installation
+Usage
+Contributing
+Technologies Used
+License
+Contact
+About the Project
+Jeratevently is a software tool designed to streamline event planning and management. This application allows users to create, manage, and track events with ease, offering a comprehensive solution for organizers to ensure their events run smoothly.
 
-First, run the development server:
+Whether you're organizing small-scale meetings or large conferences, Jeratevently helps you maintain control and clarity throughout the planning process.
 
-```bash
+Features
+Event Creation: Easily create events with specific details such as dates, location, and agenda.
+Participant Management: Add, update, and track participants' details.
+Notifications: Keep participants informed with notifications about event updates.
+Calendar Integration: Sync events with Google Calendar and Outlook for seamless schedule management.
+Reporting: Generate detailed reports on event performance, participant feedback, and more.
+Installation
+To get a local copy up and running, follow these simple steps:
+
+Clone the repo:
+
+bash
+Copy code
+git clone git@github.com:jeratdev-tech/jeratevently.git
+Install NPM packages:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Usage
+After installing and setting up the project, you can start using Jeratevently for your event management needs:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Navigate to the event dashboard.
+Create a new event by filling in the required details.
+Manage participants and keep track of RSVPs.
+Sync the event to your calendar and send updates to participants.
+Review and export event reports once the event concludes.
+Contributing
+Contributions are what make the open-source community such a fantastic place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+To contribute to Jeratevently:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Fork the project
+Create your feature branch: git checkout -b feature/AmazingFeature
+Commit your changes: git commit -m 'Add some AmazingFeature'
+Push to the branch: git push origin feature/AmazingFeature
+Open a pull request
+Technologies Used
+ReactJS: Frontend framework for creating a responsive UI.
+Vite: Fast build tool to improve the development experience.
+TailwindCSS: Utility-first CSS framework for fast UI styling.
+NodeJS: Backend runtime for managing server-side operations.
+Express: Backend framework for building a robust API.
+License
+Distributed under the MIT License. See LICENSE for more information.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Contact
+Stephen James (Jerat) - GitHub | Fiverr

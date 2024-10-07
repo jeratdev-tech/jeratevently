@@ -1,6 +1,5 @@
 <div align="center">
 
-
   <div>
     <img src="https://img.shields.io/badge/-Next_JS_14-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="Next.js" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
@@ -10,7 +9,7 @@
   <h3 align="center">A Full Stack Next 14 Events App</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/channel/UCwt8duZydDjBOZHvkTsXD9g?sub_confirmation=1" target="_blank"><b>Jeratdevworks</b></a> YouTube. Join the JSM family!
+     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/channel/UCwt8duZydDjBOZHvkTsXD9g?sub_confirmation=1" target="_blank"><b>Jeratdevworks</b></a> YouTube. Join the JDW  family!
     </div>
 </div>
 
@@ -26,7 +25,7 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/channel/UCwt8duZydDjBOZHvkTsXD9g?sub_confirmation=1" target="_blank"><b>JavaScript Mastery</b></a>.
+This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/channel/UCwt8duZydDjBOZHvkTsXD9g?sub_confirmation=1" target="_blank"><b>Jeratdevworks</b></a>.
 
 ## <a name="introduction">🤖 Introduction</a>
 

@@ -6,7 +6,7 @@ import {
   SheetTitle,
   SheetTrigger,
 } from "@/components/ui/sheet";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import { Separator } from "../ui/separator";
 import NavItems from "../shared/NavItems";
 
